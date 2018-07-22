@@ -4,6 +4,7 @@ const books = require('./assets/books.json');
 const path = require('path');
 const serveStatic = require('serve-static');
 const PORT = process.env.PORT || 5000;
+const HOST = process.env.YOUR_HOST || '0.0.0.0';
 
 app.use('/', express.static(path.join(__dirname, 'public')));
 
@@ -26,4 +27,4 @@ app.get('/books/v1/volumes/', function(req, res) {
    });
 });
 
-app.listen(PORT, () => console.log('Server is listening at ', PORT));
+app.listen(PORT, Host, () => console.log('Server is listening at ', PORT));
