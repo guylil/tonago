@@ -14,7 +14,7 @@ The login details are both 'test'
 ``` git clone https://github.com/guylil/tonago-Frontend ```
 
 cd to the project and
-``` npm install ```
+``` npm install ``` and then
 ``` ng serve for development server ```
 
 the Backend server is needed in order to get search results so:
@@ -23,7 +23,7 @@ Clone this repo
 ``` git clone https://github.com/guylil/tonago```
 
 cd into the project and run
-```npm install```
+```npm install``` and then
 ```npm run dev```
 
 Enjoy
