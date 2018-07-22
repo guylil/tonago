@@ -1,0 +1,1400 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1256,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2XhJAAAAcAAJ",
+   "etag": "3Nl8DdzaTmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2XhJAAAAcAAJ",
+   "volumeInfo": {
+    "title": "A Dictionary of the Welsh Language, Explained in English",
+    "subtitle": "With Numerous Illustrations, from the Literary Remains and from the Living Speech of the Cymry",
+    "authors": [
+     "William Owen Pughe"
+    ],
+    "publisher": "London : Printed for E. Williams",
+    "publishedDate": "1803",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB10588722"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 620,
+    "printType": "BOOK",
+    "categories": [
+     "English language"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2XhJAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2XhJAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2XhJAAAAcAAJ&pg=PP551&dq=TRUM&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2XhJAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2XhJAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=2XhJAAAAcAAJ&rdid=book-2XhJAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/A_Dictionary_of_the_Welsh_Language_Expla.pdf?id=2XhJAAAAcAAJ&hl=&output=pdf&sig=ACfU3U2fkP8jvhnt_yjAs6ysg7BCJ5BRAQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2XhJAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trevtadi tithau yw&#39;r \u003cb\u003etrum\u003c/b\u003e Tan gastell teg eiystum. An inheritance for thee, is the \u003cbr\u003e\nridge beneath a castle of splendid aspect. Iolo Goo. Trumain, a. (\u003cb\u003etrum\u003c/b\u003e) Having a \u003cbr\u003e\nridge, coped. Nid eizaw owynez Namyn sarn drumain vain vez. of Gwynez he \u003cbr\u003e\nowns&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BJTVJbRe7y8C",
+   "etag": "LGucAAE71Cs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BJTVJbRe7y8C",
+   "volumeInfo": {
+    "title": "Abe Lincoln in Illinois",
+    "subtitle": "A Play in Three Acts",
+    "authors": [
+     "Robert Emmet Sherwood"
+    ],
+    "publisher": "Dramatists Play Service Inc",
+    "publishedDate": "1966",
+    "description": "THE STORY: The play shows in a series of scenes the critical years of Lincoln's early manhood up to the moment of his election as president. We see the backwoodsman, a failure at shopkeeping, but a great favorite with friends and neighbors, slowly",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822200015"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822200017"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 86,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BJTVJbRe7y8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BJTVJbRe7y8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BJTVJbRe7y8C&pg=PA19&dq=TRUM&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BJTVJbRe7y8C&dq=TRUM&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Abe_Lincoln_in_Illinois.html?hl=&id=BJTVJbRe7y8C"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BJTVJbRe7y8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(He looks at his watch bowling, \u003cb\u003etrum\u003c/b\u003e and josh rise. 7urns to bowling and \u003cb\u003etrum\u003c/b\u003e and \u003cbr\u003e\nback.) And now, gentlemen, if you will excuse me — I must put in an appearance \u003cbr\u003e\nat the torch-light procession in Springfield this evening, so I shall have to be&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SxETAAAAYAAJ",
+   "etag": "ILfN9div5lQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SxETAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A Dissertation on the Nature and Character of the Chinese System of Writing",
+    "authors": [
+     "Peter Stephen Du Ponceau"
+    ],
+    "publishedDate": "1838",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044009777509"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SxETAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SxETAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SxETAAAAYAAJ&pg=PA361&dq=TRUM&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SxETAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SxETAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=SxETAAAAYAAJ&rdid=book-SxETAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/A_Dissertation_on_the_Nature_and_Charact.epub?id=SxETAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/A_Dissertation_on_the_Nature_and_Charact.pdf?id=SxETAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3xzF6CpQ_8fo7pts_1AiHEFHd5hA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SxETAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eTrum\u003c/b\u003e, ou \u003cb\u003etrum\u003c/b\u003e, vel lam \u003cb\u003etrum\u003c/b\u003e, caput esse in aliqua societate, pago, confraternitate. \u003cbr\u003e\n\u003cb\u003eTrum\u003c/b\u003e ca minh, cooperire totum corpus. \u003cb\u003eTrum\u003c/b\u003e, genus cistae ad capiendos \u003cbr\u003e\npisciculos, et locustas aquaticas. \u003cb\u003eTrum\u003c/b\u003e, non \u003cb\u003etrum\u003c/b\u003e, galerus concavus. Trun vel \u003cbr\u003e\nblun&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cJ0-AAAAcAAJ",
+   "etag": "ruyevl+3r0I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cJ0-AAAAcAAJ",
+   "volumeInfo": {
+    "title": "Concordantiae sacrorum Bibliorum hebraïcorum, in quibus chaldaïcae etiam librorum Esdrae et Danielis suo loco inseruntur",
+    "authors": [
+     "Mario (Da Calascio.)"
+    ],
+    "publishedDate": "1747",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BCUL:1092584693"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.3.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cJ0-AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cJ0-AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "iw",
+    "previewLink": "http://books.google.com/books?id=cJ0-AAAAcAAJ&pg=PP48&dq=TRUM&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cJ0-AAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cJ0-AAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=cJ0-AAAAcAAJ&rdid=book-cJ0-AAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Concordantiae_sacrorum_Bibliorum_hebra%C3%AF.pdf?id=cJ0-AAAAcAAJ&hl=&output=pdf&sig=ACfU3U21adqf1e5sAMejaf2hSPXy3fhVjA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cJ0-AAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "יum patrum fuorum : | 28 אבה Et jacuit Afa cum patribus 27 וישכב אסא עם אבותיו \u003cbr\u003e\nלדרש האלהים יי אלהי W י ו patrum veftrorum 35 4 Quam fecit Jehoiadah, pater 4 א: \u003cbr\u003e\nהודע אביו Divifiones Domus patrum fra- לפלוגות בית האבות cjus cum eo, 24 עמו \u003cb\u003etrum\u003c/b\u003e\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IbIohY_n64EC",
+   "etag": "IkIv3MgRpuM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IbIohY_n64EC",
+   "volumeInfo": {
+    "title": "A Book of Psalmody ... with Thirteen Anthems. The Eleventh Edition, corrected and enlarged",
+    "authors": [
+     "James Green"
+    ],
+    "publishedDate": "1751",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0022574477"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IbIohY_n64EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IbIohY_n64EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IbIohY_n64EC&pg=PA81&dq=TRUM&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IbIohY_n64EC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IbIohY_n64EC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=IbIohY_n64EC&rdid=book-IbIohY_n64EC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IbIohY_n64EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Continued. ! —-w--— j F. i i-------t up the \u003cb\u003etrum\u003c/b\u003e--pet, the \u003cb\u003etrum\u003c/b\u003e–pet, the \u003cb\u003etrum\u003c/b\u003e--pet, 2-&gt; \u003cbr\u003e\n~ Ço. * t ---pet, the \u003cb\u003etrum\u003c/b\u003e-pet, the \u003cb\u003etrum\u003c/b\u003e——pet, . Nin the new moon, -e-ven in the \u003cbr\u003e\ntime ap-pointed, and, up-on our in the new moon, e-ven in the time ap-pointed,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0ce-rLEoz7EC",
+   "etag": "WHaqzhN6SgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0ce-rLEoz7EC",
+   "volumeInfo": {
+    "title": "Modulorum Ionnis Maillardi - The Five-, Six-, and Seven-Part Motets",
+    "subtitle": "Part 2",
+    "authors": [
+     "Jean Maillard"
+    ],
+    "publisher": "A-R Editions, Inc.",
+    "publishedDate": "1993-07-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780895793546"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0895793547"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 161,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0ce-rLEoz7EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0ce-rLEoz7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0ce-rLEoz7EC&pg=PA156&dq=TRUM&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0ce-rLEoz7EC&dq=TRUM&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Modulorum_Ionnis_Maillardi_The_Five_Six.html?hl=&id=0ce-rLEoz7EC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0ce-rLEoz7EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "[21] Vidit Dominus Petrum et Andream Superius Vi- dit Do- mi- nus Pe- \u003cb\u003etrum\u003c/b\u003e et An\u003cbr\u003e\n- Contratenor m • d I о TS SS- Quinta Pars Vidit Do- mi- nus Pe- \u003cb\u003etrum\u003c/b\u003e et An- dre- \u003cbr\u003e\nTenor Sexta Pars Bassus 10 dre- am, -am, (vi- - dit Do- Vi- am, ViVidit Do- mi-&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZaGjAQAAQBAJ",
+   "etag": "5aehggjzbaU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZaGjAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Allen and Greenough's New Latin Grammar",
+    "authors": [
+     "James B Greenough",
+     "J. H. Allen"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2013-08-06",
+    "description": "A venerable resource for more than a century, this is the finest Latin grammar reference available. Concise, comprehensive, and well organized, it places a wealth of advice on usage, vocabulary, diction, composition, and syntax.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486131047"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486131041"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.18.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZaGjAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZaGjAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZaGjAQAAQBAJ&pg=PA146&dq=TRUM&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZaGjAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZaGjAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 75.0,
+     "currencyCode": "ILS"
+    },
+    "retailPrice": {
+     "amount": 75.0,
+     "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZaGjAQAAQBAJ&rdid=book-ZaGjAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.5E7,
+       "currencyCode": "ILS"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.5E7,
+       "currencyCode": "ILS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Allen_and_Greenough_s_New_Latin_Grammar-sample-epub.acsm?id=ZaGjAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Allen_and_Greenough_s_New_Latin_Grammar-sample-pdf.acsm?id=ZaGjAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZaGjAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... -\u003cb\u003etrum\u003c/b\u003e pā-bulum, fodder; pâscere, to feed. sta-bulum, Stall; stäre, to stand. vehi-\u003cbr\u003e\nculum, wagon; vehere, to carry. candëlä-brum, candlestick; candéla, candle (a \u003cbr\u003e\nsecondary formation). sepul-crum, tomb; sepelire, to bury. claus-\u003cb\u003etrum\u003c/b\u003e (tclaud-\u003cb\u003etrum\u003c/b\u003e\u003cbr\u003e\n),&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7B9NAAAAcAAJ",
+   "etag": "G5WoCl+TDg4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7B9NAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Hilḵôt Bikkûrîm",
+    "publishedDate": "1702",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB10826761"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7B9NAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7B9NAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "iw",
+    "previewLink": "http://books.google.com/books?id=7B9NAAAAcAAJ&pg=PA149&dq=TRUM&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7B9NAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7B9NAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=7B9NAAAAcAAJ&rdid=book-7B9NAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Hil%E1%B8%B5%C3%B4t_Bikk%C3%BBr%C3%AEm.pdf?id=7B9NAAAAcAAJ&hl=&output=pdf&sig=ACfU3U0pSoe6RoZfmzGsJ4wHK1pPA5f9Dg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7B9NAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rabbini nobis alitcr hoc proponunt : R. Qaed דהיינו ק&#39; חולין וא&#39; תרומה מעלה התרומה :\u003cbr\u003e\nSchimfchon ita fcribit fi nimirum centam fata /înt profanorum, &amp; unam fatum \u003cb\u003eTrum\u003c/b\u003e.\u003cbr\u003e\ne, illud fátum \u003cb\u003eTrum\u003c/b\u003e e aufertur folum féu afcendit &amp; cetera non reddit vetita."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WXQQ7XGP11UC",
+   "etag": "ZYosKbvR8Tk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WXQQ7XGP11UC",
+   "volumeInfo": {
+    "title": "Chigger Hollow Adventures",
+    "subtitle": "Book One- Nickterpopper and the Emerald Key",
+    "authors": [
+     "Mitchell D. Trumble",
+     "Robert E. Trum"
+    ],
+    "publisher": "Xlibris Corporation",
+    "publishedDate": "2009-02-21",
+    "description": "Summer and Cole are staying with their grandma for the summer. They are two inquisitive kids full of imagination. With their dog Corky; they have had many imaginary adventures on their grandmas farm. This time when they enter the forest they realize there is more to the land than just trees. They become aware of terrible magical events happening in Chigger Hollow, creatures and places they have only seen in their imaginations. Princess Aily, the leader of the Faye Fairy kingdom has lost the Emerald Key in a battle with the Wood Trolls. The Emerald Key locks the gate to Fairy Circle and protects the Emerald Tree, the source of power for the Faye Fairies. With the help of their new friend Nickterpopper, who found the Emerald Key while scavenging for magical ingredients, they embark on a quest to bring the Emerald Key back and lock the magical gate at Fairy Circle to keep the Wood Trolls from destroying the Emerald Tree.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781462826940"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1462826946"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WXQQ7XGP11UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WXQQ7XGP11UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WXQQ7XGP11UC&pg=PA1&dq=TRUM&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WXQQ7XGP11UC&dq=TRUM&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Chigger_Hollow_Adventures.html?hl=&id=WXQQ7XGP11UC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Chigger_Hollow_Adventures-sample-epub.acsm?id=WXQQ7XGP11UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Chigger_Hollow_Adventures-sample-pdf.acsm?id=WXQQ7XGP11UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WXQQ7XGP11UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Book One- Nickterpopper and the Emerald Key Mitchell D. Trumble, Robert E. \u003cbr\u003e\n\u003cb\u003eTrum\u003c/b\u003e. Adventures Adventures Book One Nickterpopper and the Emerald Key \u003cbr\u003e\nWritten and Chigger Hollow 56168-\u003cb\u003eTRUM\u003c/b\u003e-layout.pdf."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "10NHAQAAMAAJ",
+   "etag": "owSznN9r0bY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/10NHAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Quaker City, Or, The Monks of Monk-Hall",
+    "subtitle": "A Romance of Philadelphia Life, Mystery, and Crime",
+    "authors": [
+     "George Lippard"
+    ],
+    "publishedDate": "1845",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OSU:32435082247339"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "City and town life"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=10NHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=10NHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=10NHAQAAMAAJ&pg=PA431&dq=TRUM&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=10NHAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-10NHAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=10NHAQAAMAAJ&rdid=book-10NHAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=10NHAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“\u003cb\u003eTrum\u003c/b\u003e-te-\u003cb\u003etrum\u003c/b\u003e-te-tum-tum, went the drums a-beatin&#39; the dead march, rattle, rattle, \u003cbr\u003e\nwent the wheels of the cart, and away we goes, down Schuyl. kill Sixth Street, \u003cbr\u003e\ntoward Bush Hill. * - “Charley the poor devil, wot was a-goin&#39; to be hung, set on th&#39;\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+    "kind": "books#volume",
+    "id": "85Bb_pS-VCsC",
+    "etag": "7ispXL9n60E",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/85Bb_pS-VCsC",
+    "volumeInfo": {
+     "title": "The Cinematic City",
+     "authors": [
+      "David B. Clarke"
+     ],
+     "publisher": "Psychology Press",
+     "publishedDate": "1997",
+     "description": "The Cinematic City offers an innovative and thought-provoking insight into cityscape and screenscape and their inter-connection. Illustrated throughout with movie stills, a diverse selection of films (from 'Bladerunner' to 'Little Caesar'), genres, cities and historical periods are examined by leading names in the field. The key dimensions of film and urban theory are introduced before detailed analysis of the various cinematic forms which relate most significantly to the city. From early cinema and documentary film, to film noir, 'New Wave' and 'postmodern cinema', the contributors provide a wealth of empirical material and illustration whilst drawing on the theoretical insights of contemporary feminism, Benjamin, Baudrillard, Foucault, Lacan, and others. The Cinematic City shows how the city has been undeniably shaped by the cinematic form, and how cinema owes much of its nature to the historical development of urban space. Engaging with current theoretical debates, this is a book that is set to change the way in which we think about both the nature of the city and film. Contributors: Giuliana Bruno, Iain Chambers, Marcus Doel, David Clarke, Anthony Easthope, Elisabeth Mahoney, Will Straw, Stephen Ward, John Gold, James Hay, Rob Lapsley, Frank Krutnik",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0415127459"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780415127455"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 252,
+     "printType": "BOOK",
+     "categories": [
+      "Science"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.2.2.0.preview.3",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=85Bb_pS-VCsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=85Bb_pS-VCsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=85Bb_pS-VCsC&printsec=frontcover&dq=the&hl=&cd=1&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=85Bb_pS-VCsC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Cinematic_City.html?hl=&id=85Bb_pS-VCsC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Cinematic_City-sample-epub.acsm?id=85Bb_pS-VCsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Cinematic_City-sample-pdf.acsm?id=85Bb_pS-VCsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=85Bb_pS-VCsC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Engaging with current theoretical debates, this is a book that is set to change the way in which we think about both the nature of the city and film."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "vzQEAAAAMBAJ",
+    "etag": "E7zlAOORFe0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vzQEAAAAMBAJ",
+    "volumeInfo": {
+     "title": "The Rotarian",
+     "publishedDate": "2003-11",
+     "description": "Established in 1911, The Rotarian is the official magazine of Rotary International and is circulated worldwide. Each issue contains feature articles, columns, and departments about, or of interest to, Rotarians. Seventeen Nobel Prize winners and 19 Pulitzer Prize winners – from Mahatma Ghandi to Kurt Vonnegut Jr. – have written for the magazine.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 64,
+     "printType": "MAGAZINE",
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "1.1.1.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=vzQEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=vzQEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=vzQEAAAAMBAJ&pg=PP1&dq=the&hl=&cd=2&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=vzQEAAAAMBAJ&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Rotarian.html?hl=&id=vzQEAAAAMBAJ"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "ALL_PAGES",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=vzQEAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Established in 1911, The Rotarian is the official magazine of Rotary International and is circulated worldwide. Each issue contains feature articles, columns, and departments about, or of interest to, Rotarians."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "6_4TeGhBAZYC",
+    "etag": "8haglSEx4nk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6_4TeGhBAZYC",
+    "volumeInfo": {
+     "title": "The International Criminal Court",
+     "subtitle": "the making of the Rome Statute : issues, negotiations and results",
+     "authors": [
+      "Roy S. K. Lee"
+     ],
+     "publisher": "Martinus Nijhoff Publishers",
+     "publishedDate": "1999-09-06",
+     "description": "\"This publication is a collective work by a group of persons closely associated with the actual making of the Rome Statute. It covers the substantive and procedural issues raised during the preparatory stages as well as at the Conference. These active participants in the Conference provide an account of the main contentions on each of the key issues, the divergent approaches put forward by the principal proponents, how differences were resolved, how groups of articles were prepared, and how the final text as a whole was assembled.\"--BOOK JACKET.Title Summary field provided by Blackwell North America, Inc. All Rights Reserved",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "904111212X"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9789041112125"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 657,
+     "printType": "BOOK",
+     "categories": [
+      "Political Science"
+     ],
+     "averageRating": 5.0,
+     "ratingsCount": 1,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.1.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=6_4TeGhBAZYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=6_4TeGhBAZYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=6_4TeGhBAZYC&printsec=frontcover&dq=the&hl=&cd=3&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=6_4TeGhBAZYC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_International_Criminal_Court.html?hl=&id=6_4TeGhBAZYC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=6_4TeGhBAZYC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "These active participants in the Conference provide an account of the main contentions on each of the key issues, the divergent approaches put forward by the principal proponents, how differences were resolved, how groups of articles were ..."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "Z8e2mfFJa-4C",
+    "etag": "737uTZaAl6c",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Z8e2mfFJa-4C",
+    "volumeInfo": {
+     "title": "The Book of the Navajo",
+     "authors": [
+      "Raymond Friday Locke"
+     ],
+     "publisher": "Holloway House Publishing",
+     "publishedDate": "2001",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0876875002"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780876875001"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 496,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Z8e2mfFJa-4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Z8e2mfFJa-4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=Z8e2mfFJa-4C&printsec=frontcover&dq=the&hl=&cd=4&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=Z8e2mfFJa-4C&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_the_Navajo.html?hl=&id=Z8e2mfFJa-4C"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=Z8e2mfFJa-4C&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "dZ7_o8ElbQoC",
+    "etag": "WC72QTLyvac",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dZ7_o8ElbQoC",
+    "volumeInfo": {
+     "title": "Doubling the Point",
+     "subtitle": "Essays and Interviews",
+     "authors": [
+      "J. M. Coetzee",
+      "David Attwell"
+     ],
+     "publisher": "Harvard University Press",
+     "publishedDate": "1992",
+     "description": "Nadine Gordimer has written of J.M. Coetzee that his vision goes to the nerve-centre of being. What he finds there is more than most people will ever know about themselves, and he conveys it with a brilliant writer's mastery of tension and elegance. Doubling the Point takes the reader to the center of that vision. These essays and interviews, documenting Coetzee's longtime engagement with his own culture, and with modern culture in general, constitute a literary autobiography.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0674215184"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780674215184"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 438,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "averageRating": 5.0,
+     "ratingsCount": 1,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=dZ7_o8ElbQoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=dZ7_o8ElbQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=dZ7_o8ElbQoC&printsec=frontcover&dq=the&hl=&cd=5&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=dZ7_o8ElbQoC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Doubling_the_Point.html?hl=&id=dZ7_o8ElbQoC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Doubling_the_Point-sample-epub.acsm?id=dZ7_o8ElbQoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=dZ7_o8ElbQoC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Doubling the Point takes the reader to the center of that vision. These essays and interviews, documenting Coetzee&#39;s longtime engagement with his own culture, and with modern culture in general, constitute a literary autobiography."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "lQ3GZuKbidMC",
+    "etag": "QjdIoUwSFns",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/lQ3GZuKbidMC",
+    "volumeInfo": {
+     "title": "The World War II Combat Film",
+     "subtitle": "Anatomy of a Genre",
+     "authors": [
+      "Jeanine Basinger"
+     ],
+     "publisher": "Wesleyan University Press",
+     "publishedDate": "2003-05-15",
+     "description": "Lively, comprehensive analysis of World War II movies.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0819566233"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780819566232"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 376,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "averageRating": 5.0,
+     "ratingsCount": 3,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=lQ3GZuKbidMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=lQ3GZuKbidMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=lQ3GZuKbidMC&printsec=frontcover&dq=the&hl=&cd=6&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=lQ3GZuKbidMC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_World_War_II_Combat_Film.html?hl=&id=lQ3GZuKbidMC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=lQ3GZuKbidMC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Lively, comprehensive analysis of World War II movies."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "CIgW79K8il8C",
+    "etag": "8N5Ng2PmQ1M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CIgW79K8il8C",
+    "volumeInfo": {
+     "title": "The Holocaust",
+     "subtitle": "A Concise History",
+     "authors": [
+      "Doris L. Bergen"
+     ],
+     "publisher": "Rowman & Littlefield",
+     "publishedDate": "2009",
+     "description": "Documents the historical, political, social, cultural, and military context of the Holocaust, discussing the persecution of the Jews, Gypsies, Soviet prisoners of war, and Polish citizens.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0742557146"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780742557147"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 279,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "averageRating": 5.0,
+     "ratingsCount": 2,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.2.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=CIgW79K8il8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=CIgW79K8il8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=CIgW79K8il8C&printsec=frontcover&dq=the&hl=&cd=7&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=CIgW79K8il8C&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Holocaust.html?hl=&id=CIgW79K8il8C"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Holocaust-sample-pdf.acsm?id=CIgW79K8il8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=CIgW79K8il8C&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Documents the historical, political, social, cultural, and military context of the Holocaust, discussing the persecution of the Jews, Gypsies, Soviet prisoners of war, and Polish citizens."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "KFB_oT-jupQC",
+    "etag": "TkLG3aUYlDQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KFB_oT-jupQC",
+    "volumeInfo": {
+     "title": "The Talkies",
+     "subtitle": "American Cinema's Transition to Sound, 1926-1931",
+     "authors": [
+      "Donald Crafton"
+     ],
+     "publisher": "Univ of California Press",
+     "publishedDate": "1999",
+     "description": "\"The Talkies is a valuable addition to a distinguished series--especially important because it deals with one of the most eventful periods in motion picture history. Crafton's scholarship is impressive, and he has produced a readable book that's sure to become a standard reference.\"--James Naremore, author of More than Night",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0520221281"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780520221284"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 639,
+     "printType": "BOOK",
+     "categories": [
+      "Performing Arts"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.3.0.preview.3",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=KFB_oT-jupQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=KFB_oT-jupQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=KFB_oT-jupQC&printsec=frontcover&dq=the&hl=&cd=8&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=KFB_oT-jupQC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Talkies.html?hl=&id=KFB_oT-jupQC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Talkies-sample-epub.acsm?id=KFB_oT-jupQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=KFB_oT-jupQC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "&quot;The Talkies is a valuable addition to a distinguished series—especially important because it deals with one of the most eventful periods in motion picture history."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "OkKhOivXrhgC",
+    "etag": "rUdZ4x0BDVU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OkKhOivXrhgC",
+    "volumeInfo": {
+     "title": "The Sants",
+     "subtitle": "Studies in a Devotional Tradition of India",
+     "authors": [
+      "Karine Schomer",
+      "W. H. McLeod"
+     ],
+     "publisher": "Motilal Banarsidass Publ.",
+     "publishedDate": "1987-01-01",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "8120802772"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9788120802773"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 472,
+     "printType": "BOOK",
+     "categories": [
+      "Bhakti"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.1.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=OkKhOivXrhgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=OkKhOivXrhgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=OkKhOivXrhgC&printsec=frontcover&dq=the&hl=&cd=9&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=OkKhOivXrhgC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Sants.html?hl=&id=OkKhOivXrhgC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=OkKhOivXrhgC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "9opxcMjv4TUC",
+    "etag": "ckqNmF4UBLs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9opxcMjv4TUC",
+    "volumeInfo": {
+     "title": "The Coming of the Book",
+     "subtitle": "The Impact of Printing 1450-1800",
+     "authors": [
+      "Lucien Febvre",
+      "Henri-Jean Martin"
+     ],
+     "publisher": "Verso",
+     "publishedDate": "1997-01-01",
+     "description": "Books, and the printed word more generally, are aspects of modern life that are all too often taken for granted. Yet the emergence of the book was a process of immense historical importance and heralded the dawning of the epoch of modernity. In this much praised history of that process, Lucien Febvre and Henri-Jean Martin mesh together economic and technological history, sociology and anthropology, as well as the study of modes of consciousness, to root the development of the printed word in the changing social relations and ideological struggles of Western Europe.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "1859841082"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9781859841082"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 378,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.1.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=9opxcMjv4TUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=9opxcMjv4TUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.com/books?id=9opxcMjv4TUC&printsec=frontcover&dq=the&hl=&cd=10&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=9opxcMjv4TUC&dq=the&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Coming_of_the_Book.html?hl=&id=9opxcMjv4TUC"
+    },
+    "saleInfo": {
+     "country": "IL",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "IL",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=9opxcMjv4TUC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "On the history of printing"
+    }
+   }
+ ]
+}
