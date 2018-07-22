@@ -15936,7 +15936,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var styles_LoginFormComponent = ["[_nghost-%COMP%] {\n      display: flex;\n      justify-content: center;\n      margin: 72px 0;\n    }\n\n    .mat-form-field[_ngcontent-%COMP%] {\n      width: 100%;\n      min-width: 300px;\n    }\n\n    mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%] {\n      display: flex;\n      justify-content: center;\n    }\n\n    .loginError[_ngcontent-%COMP%] {\n      padding: 16px;\n      width: 300px;\n      color: white;\n      background-color: red;\n    }\n\n    .loginButtons[_ngcontent-%COMP%] {\n      display: flex;\n      flex-direction: row;\n      justify-content: flex-end;\n    }"];
+var styles_LoginFormComponent = ["[_nghost-%COMP%] {\n        display: flex;\n        justify-content: center;\n        margin: 72px 0;\n      }\n\n      .mat-form-field[_ngcontent-%COMP%] {\n        width: 100%;\n        min-width: 300px;\n      }\n\n      mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%] {\n        display: flex;\n        justify-content: center;\n      }\n\n      .loginError[_ngcontent-%COMP%] {\n        padding: 16px;\n        width: 300px;\n        color: white;\n        background-color: red;\n      }\n\n      .loginButtons[_ngcontent-%COMP%] {\n        display: flex;\n        flex-direction: row;\n        justify-content: flex-end;\n      }"];
 var RenderType_LoginFormComponent = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵcrt"]({ encapsulation: 0, styles: styles_LoginFormComponent, data: {} });
 
 function View_LoginFormComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](0, 0, null, null, 1, "p", [["class", "loginError"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵted"](1, null, [" ", " "]))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.errorMessage; _ck(_v, 1, 0, currVal_0); }); }
@@ -16164,9 +16164,7 @@ var AuthEffects = /** @class */ (function () {
         this.authService = authService;
         this.router = router;
         this.login$ = this.actions$.pipe(Object(_ngrx_effects__WEBPACK_IMPORTED_MODULE_1__["ofType"])(_actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["AuthActionTypes"].Login), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (action) { return action.payload; }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["exhaustMap"])(function (auth) {
-            return _this.authService
-                .login(auth)
-                .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (user) { return new _actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["LoginSuccess"]({ user: user }); }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(function (error) { return Object(rxjs__WEBPACK_IMPORTED_MODULE_2__["of"])(new _actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["LoginFailure"](error)); }));
+            return _this.authService.login(auth).pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (user) { return new _actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["LoginSuccess"]({ user: user }); }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(function (error) { return Object(rxjs__WEBPACK_IMPORTED_MODULE_2__["of"])(new _actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["LoginFailure"](error)); }));
         }));
         this.loginSuccess$ = this.actions$.pipe(Object(_ngrx_effects__WEBPACK_IMPORTED_MODULE_1__["ofType"])(_actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["AuthActionTypes"].LoginSuccess), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["tap"])(function () { return _this.router.navigate(['/']); }));
         this.loginRedirect$ = this.actions$.pipe(Object(_ngrx_effects__WEBPACK_IMPORTED_MODULE_1__["ofType"])(_actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["AuthActionTypes"].LoginRedirect, _actions_auth_actions__WEBPACK_IMPORTED_MODULE_4__["AuthActionTypes"].Logout), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["tap"])(function (authed) {
@@ -16468,7 +16466,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var styles_LayoutComponent = ["mat-sidenav-container[_ngcontent-%COMP%] {\n      background: rgba(0, 0, 0, 0.03);\n    }\n\n    *[_ngcontent-%COMP%],   * {\n      -webkit-font-smoothing: antialiased;\n      -moz-osx-font-smoothing: grayscale;\n    }"];
+var styles_LayoutComponent = ["mat-sidenav-container[_ngcontent-%COMP%] {\n        background: rgba(0, 0, 0, 0.03);\n      }\n\n      *[_ngcontent-%COMP%],   * {\n        -webkit-font-smoothing: antialiased;\n        -moz-osx-font-smoothing: grayscale;\n      }"];
 var RenderType_LayoutComponent = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵcrt"]({ encapsulation: 0, styles: styles_LayoutComponent, data: {} });
 
 function View_LayoutComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](0, 0, null, null, 4, "mat-sidenav-container", [["class", "mat-drawer-container mat-sidenav-container"], ["fullscreen", ""]], [[2, "mat-drawer-container-explicit-backdrop", null]], null, null, _node_modules_angular_material_sidenav_typings_index_ngfactory__WEBPACK_IMPORTED_MODULE_1__["View_MatSidenavContainer_0"], _node_modules_angular_material_sidenav_typings_index_ngfactory__WEBPACK_IMPORTED_MODULE_1__["RenderType_MatSidenavContainer"])), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵdid"](1, 1490944, null, 2, _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_2__["MatSidenavContainer"], [[2, _angular_cdk_bidi__WEBPACK_IMPORTED_MODULE_3__["Directionality"]], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_0__["NgZone"], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ChangeDetectorRef"], _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_2__["MAT_DRAWER_DEFAULT_AUTOSIZE"], [2, _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_4__["ANIMATION_MODULE_TYPE"]]], null, null), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵqud"](603979776, 1, { _drawers: 1 }), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵqud"](335544320, 2, { _content: 0 }), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵncd"](2, 0)], function (_ck, _v) { _ck(_v, 1, 0); }, function (_ck, _v) { var currVal_0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵnov"](_v, 1)._backdropOverride; _ck(_v, 0, 0, currVal_0); }); }
@@ -16536,7 +16534,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var styles_NavItemComponent = [".secondary[_ngcontent-%COMP%] {\n      color: rgba(0, 0, 0, 0.54);\n    }"];
+var styles_NavItemComponent = [".secondary[_ngcontent-%COMP%] {\n        color: rgba(0, 0, 0, 0.54);\n      }"];
 var RenderType_NavItemComponent = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵcrt"]({ encapsulation: 0, styles: styles_NavItemComponent, data: {} });
 
 function View_NavItemComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](0, 0, null, null, 14, "a", [["class", "mat-list-item"], ["mat-list-item", ""]], [[1, "target", 0], [8, "href", 4], [2, "mat-list-item-avatar", null], [2, "mat-list-item-with-avatar", null]], [[null, "click"], [null, "focus"], [null, "blur"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
@@ -16622,7 +16620,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var styles_SidenavComponent = ["mat-sidenav[_ngcontent-%COMP%] {\n      width: 300px;\n    }"];
+var styles_SidenavComponent = ["mat-sidenav[_ngcontent-%COMP%] {\n        width: 300px;\n      }"];
 var RenderType_SidenavComponent = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵcrt"]({ encapsulation: 0, styles: styles_SidenavComponent, data: {} });
 
 function View_SidenavComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](0, 0, null, null, 4, "mat-sidenav", [["class", "mat-drawer mat-sidenav"], ["tabIndex", "-1"]], [[40, "@transform", 0], [1, "align", 0], [2, "mat-drawer-end", null], [2, "mat-drawer-over", null], [2, "mat-drawer-push", null], [2, "mat-drawer-side", null], [2, "mat-sidenav-fixed", null], [4, "top", "px"], [4, "bottom", "px"]], [["component", "@transform.start"], ["component", "@transform.done"]], function (_v, en, $event) { var ad = true; if (("component:@transform.start" === en)) {
@@ -16913,7 +16911,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var styles_NotFoundPageComponent = ["[_nghost-%COMP%] {\n      text-align: center;\n    }"];
+var styles_NotFoundPageComponent = ["[_nghost-%COMP%] {\n        text-align: center;\n      }"];
 var RenderType_NotFoundPageComponent = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵcrt"]({ encapsulation: 0, styles: styles_NotFoundPageComponent, data: {} });
 
 function View_NotFoundPageComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵvid"](2, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](0, 0, null, null, 14, "mat-card", [["class", "mat-card"]], null, null, null, _node_modules_angular_material_card_typings_index_ngfactory__WEBPACK_IMPORTED_MODULE_1__["View_MatCard_0"], _node_modules_angular_material_card_typings_index_ngfactory__WEBPACK_IMPORTED_MODULE_1__["RenderType_MatCard"])), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵdid"](1, 49152, null, 0, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCard"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](2, 0, null, 0, 2, "mat-card-title", [["class", "mat-card-title"]], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵdid"](3, 16384, null, 0, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCardTitle"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵted"](-1, null, ["404: Not Found"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](5, 0, null, 0, 3, "mat-card-content", [["class", "mat-card-content"]], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵdid"](6, 16384, null, 0, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCardContent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](7, 0, null, null, 1, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵted"](-1, null, ["Hey! It looks like this page doesn't exist yet."])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](9, 0, null, 0, 5, "mat-card-actions", [["class", "mat-card-actions"]], [[2, "mat-card-actions-align-end", null]], null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵdid"](10, 16384, null, 0, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__["MatCardActions"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵeld"](11, 0, null, null, 3, "button", [["color", "primary"], ["mat-raised-button", ""], ["routerLink", "/"]], [[8, "disabled", 0], [2, "_mat-animation-noopable", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; if (("click" === en)) {
@@ -17047,10 +17045,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var GoogleBooksService = /** @class */ (function () {
+    // private API_PATH = 'http://localhost:3000/books/v1/volumes';
     function GoogleBooksService(http) {
         this.http = http;
-        // private API_PATH = 'https://www.googleapis.com/books/v1/volumes';
-        this.API_PATH = 'http://localhost:3000/books/v1/volumes';
+        this.API_PATH = 'https://www.googleapis.com/books/v1/volumes';
     }
     GoogleBooksService.prototype.searchBooks = function (queryTitle) {
         return this.http

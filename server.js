@@ -17,8 +17,6 @@ app.use(function(req, res, next) {
 app.get('/', serveStatic('./public/', {'index': 'index.html'}));
 
 app.get('/books/v1/volumes/', function(req, res) {
-   // console.log('req: ', req.query);
-   // console.log(books.items[0].volumeInfo);
    res.send({
        kind: 'books#volumes',
        totalItems: books.items.length,
